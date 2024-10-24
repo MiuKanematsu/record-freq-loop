@@ -1,0 +1,4 @@
+.DS_Store
+*.wav
+.idea/
+high_freqs_log.csv
